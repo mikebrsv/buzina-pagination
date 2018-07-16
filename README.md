@@ -56,4 +56,4 @@ Example:
 * Add Bootstrap `.active` and `.disabled` calsses.
 
 ## License
-The code and the documentation are released under the [MIT License](https://github.com/mikebrsv/buzina-pagination/master/LICENSE).
+The code and the documentation are released under the [MIT License](https://github.com/mikebrsv/buzina-pagination/blob/master/LICENSE).
